@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Yash Gaur
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to make my own Empire
+
 -
 
 <!---
